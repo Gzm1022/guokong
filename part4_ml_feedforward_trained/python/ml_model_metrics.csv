@@ -1,0 +1,6 @@
+﻿metric,value
+train_rows,6000
+test_rows,2000
+mae,0.059038
+rmse,0.073704
+r2,0.974379

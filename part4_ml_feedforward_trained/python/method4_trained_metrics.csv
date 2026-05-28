@@ -1,0 +1,4 @@
+﻿controller,min_do,max_abs_error,recovery_time_s,iae_after_dist,air_command_energy
+Cascade PID,1.777254,0.222746,449.000000,68.293290,645.042881
+Conventional FF + Cascade PID,1.800423,0.199577,315.000000,61.903616,659.972131
+Random Forest FF + Cascade PID,1.826736,0.173264,117.500000,30.251292,671.845344
